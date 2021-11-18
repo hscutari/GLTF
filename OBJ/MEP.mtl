@@ -1,0 +1,102 @@
+# Wavefront material file
+# Created with Visionworkplace.com product
+newmtl Default_Floor
+Ka 0 0 0
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0 0 0
+d 1
+newmtl Concrete_-_Cast-in-Place_Lightweight_Concrete
+Ka 0 0 0
+Kd 0.4980392 0.4980392 0.4980392
+Ks 0 0 0
+d 1
+newmtl Default_Wall
+Ka 0 0 0
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0 0 0
+d 1
+newmtl Finishes_-_Interior_-_Gypsum_Wall_Board
+Ka 0 0 0
+Kd 0.4980392 0.4980392 0.4980392
+Ks 0 0 0
+d 1
+newmtl Metal_-_Stud_Layer
+Ka 0 0 0
+Kd 0.7803922 0.7803922 0.7803922
+Ks 0 0 0
+d 1
+newmtl Wood_-_Flooring_Entry
+Ka 0 0 0
+Kd 0.8470588 0.6627451 0.4470588
+Ks 0 0 0
+d 1
+newmtl Masonry_-_Brick
+Ka 0 0 0
+Kd 0.6666667 0.3843137 0.4078431
+Ks 0 0 0
+d 1
+newmtl Glass
+Ka 0 0 0
+Kd 0 0.5019608 0.7529412
+Ks 0 0 0
+d -74
+newmtl Metal_-_Aluminum_Polished
+Ka 0 0 0
+Kd 0.9686275 0.9686275 0.9686275
+Ks 0 0 0
+d 1
+newmtl Masonry_-_Stone
+Ka 0 0 0
+Kd 0.4980392 0.4980392 0.4980392
+Ks 0 0 0
+d 1
+newmtl Door_-_Panel
+Ka 0 0 0
+Kd 0.8235294 0.6235294 0.372549
+Ks 0 0 0
+d 1
+newmtl Door_-_Frame
+Ka 0 0 0
+Kd 0.4627451 0.2745098 0.2
+Ks 0 0 0
+d 1
+newmtl Site_-_Mulch
+Ka 0 0 0
+Kd 0.5215687 0.3372549 0.3215686
+Ks 0 0 0
+d 1
+newmtl material_13
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+newmtl Sash_-_Metal
+Ka 0 0 0
+Kd 0.4431373 0.3137255 0.2745098
+Ks 0 0 0
+d 1
+newmtl Air_Barrier_-_Air_Infiltration_Barrier
+Ka 0 0 0
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0 0 0
+d 1
+newmtl Metal_-_Aluminum
+Ka 0 0 0
+Kd 0.9686275 0.9686275 0.9686275
+Ks 0 0 0
+d 1
+newmtl Plaza_Tile
+Ka 0 0 0
+Kd 0.4156863 0.2392157 0.1960784
+Ks 0 0 0
+d 1
+newmtl Concrete_-_Cast-in-Place_Concrete
+Ka 0 0 0
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+d 1
+newmtl Finishes_-_Interior_-_Plaster
+Ka 0 0 0
+Kd 0.4980392 0.4980392 0.4980392
+Ks 0 0 0
+d 1
